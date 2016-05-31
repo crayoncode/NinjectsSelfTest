@@ -1,0 +1,7 @@
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\bin\Debug\Ninject.dll
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\visualstudio2012\Projects\ConsoleNinjects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
